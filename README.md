@@ -14,7 +14,7 @@
 
 ## 🌱 Sobre mim
 
-Olá! Eu sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistemas. Estou me especializando em desenvolvimento **Full Stack**, com foco atual em **JavaScript, TypeScript, HTML, CSS e banco de dados**.
+Olá! Eu sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistemas. Estou me especializando em desenvolvimento **Full Stack**, com foco atual em **JavaScript, HTML e css.
 
 🚀 Em constante aprendizado  
 💻 Apaixonada por resolver problemas com código  

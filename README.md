@@ -7,8 +7,7 @@
 
 ✨ Desenvolvedora em formação | Apaixonada por tecnologia e inovação
 
-[![GitHub followers](https://img.shields.io/github/followers/rafaelasousa?label=Seguidores&style=social)](https://github.com/rafaelasousa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafaela%20Sousa-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rafaelasousa/)
+
 
 ---
 

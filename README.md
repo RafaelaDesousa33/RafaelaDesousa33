@@ -3,6 +3,7 @@
 
 
 
+
 # 👩‍💻 Rafaela Sousa
 
 ✨ Desenvolvedora Back-End em formação | Apaixonada por tecnologia e inovação
@@ -11,7 +12,7 @@
 
 ## 🌱 Sobre mim
 
-Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistemas, com foco em **Desenvolvimento Back-End**. Atualmente, estou me especializando em **Python**, com conhecimentos complementares em **HTML** e **CSS** para estruturar e dar vida aos projetos.
+Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistemas, com foco em **Desenvolvimento Back-End**. Atualmente, estou me especializando em **Kotlin** e **JavaScript** para construir soluções eficientes e modernas para o Back-End.
 
 🚀 Em constante evolução e aprendizado  
 💻 Amo resolver problemas com lógica e transformar ideias em soluções inteligentes  
@@ -23,9 +24,8 @@ Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistem
 
 **Principais:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Estudando atualmente:**
 
@@ -46,8 +46,4 @@ Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistem
 ## 📬 Contato
 
 - ✉️ Email: rafaelasousa201397@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rafaela-de-sousa](https://www.linkedin.com/in/rafaela-de-sousa-/)
-
----
-
-🔎 Obrigada por visitar meu perfil!
+- 💼 LinkedIn: [linkedin.com/in/rafaela-de-sousa](https://www.linkedin.com/in/rafaela-de-

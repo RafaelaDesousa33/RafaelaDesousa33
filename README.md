@@ -46,4 +46,4 @@ Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistem
 ## 📬 Contato
 
 - ✉️ Email: rafaelasousa201397@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rafaela-de-sousa](https://www.linkedin.com/in/rafaela-de-
+- 💼 LinkedIn: https://www.linkedin.com/in/rafaelasousa1/

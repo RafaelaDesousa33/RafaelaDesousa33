@@ -12,7 +12,8 @@
 
 ## 🌱 Sobre mim
 
-Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistemas, com foco em **Desenvolvimento Back-End**. Atualmente, estou me especializando em **Kotlin** e **JavaScript** para construir soluções eficientes e modernas para o Back-End.
+Olá! Sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Back-End**.  
+Atualmente, estou me especializando em **Kotlin**, **Java** e **C#** para criar soluções modernas, escaláveis e eficientes no Back-End.
 
 🚀 Em constante evolução e aprendizado  
 💻 Amo resolver problemas com lógica e transformar ideias em soluções inteligentes  
@@ -22,12 +23,13 @@ Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistem
 
 ## 🛠️ Tecnologias
 
-**Principais:**
+**Principais:**  
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Estudando atualmente:**
+**Estudando atualmente:**  
 
 - Bancos de dados (MySQL, PostgreSQL)  
 - Versionamento com Git e GitHub  
@@ -35,15 +37,9 @@ Olá! Sou a **Rafaela Sousa**, estudante de Análise e Desenvolvimento de Sistem
 
 ---
 
-## 📈 GitHub Estatísticas
 
-![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelasousa&show_icons=true&count_private=true&hide=issues&theme=radical&custom_title=Estatísticas%20do%20GitHub)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelasousa&layout=compact&theme=radical)
-
----
 
 ## 📬 Contato
 
-- ✉️ Email: rafaelasousa201397@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rafaelasousa1/
+- ✉️ Email: **rafaelasousa201397@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/rafaelasousa1](https://www.linkedin.com/in/rafaelasousa1/)

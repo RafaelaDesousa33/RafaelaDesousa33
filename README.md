@@ -6,40 +6,50 @@
 
 # 👩‍💻 Rafaela Sousa
 
-✨ Desenvolvedora Back-End em formação | Apaixonada por tecnologia e inovação
+✨ Desenvolvedora Back-End em formação | Apaixonada por tecnologia, lógica e criação de soluções inteligentes.
 
 ---
 
 ## 🌱 Sobre mim
 
-Olá! Sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Back-End**.  
-Atualmente, estou me especializando em **Kotlin**, **Java** e **C#** para criar soluções modernas, escaláveis e eficientes no Back-End.
+Olá! Eu sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, focada no **Desenvolvimento Back-End com Python**.  
+Atualmente, estou me especializando em APIs, automações e boas práticas de programação.
 
-🚀 Em constante evolução e aprendizado  
-💻 Amo resolver problemas com lógica e transformar ideias em soluções inteligentes  
-🤝 Sempre aberta a colaborar em projetos e aprender com outras pessoas desenvolvedoras
-
----
-
-## 🛠️ Tecnologias
-
-**Principais:**  
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-
-**Estudando atualmente:**  
-
-- Bancos de dados (MySQL, PostgreSQL)  
-- Versionamento com Git e GitHub  
-- Ferramentas: VS Code, Postman
+- 🚀 Sempre aprendendo e evoluindo  
+- 🧠 Amo resolver problemas usando lógica  
+- 🤝 Aberta a colaborar em projetos e contribuir com a comunidade  
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
 
+### 🔹 Principal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔹 Estudando atualmente
+- Flask / FastAPI  
+- Bancos de dados: MySQL, PostgreSQL  
+- Git & GitHub  
+- VS Code, Postman
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rafaela GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+
+</div>
+
+---
 
 ## 📬 Contato
 
 - ✉️ Email: **rafaelasousa201397@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/rafaelasousa1](https://www.linkedin.com/in/rafaelasousa1/)
+
+---
+

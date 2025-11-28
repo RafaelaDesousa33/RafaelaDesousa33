@@ -34,17 +34,6 @@ Atualmente, estou me especializando em APIs, automações e boas práticas de pr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafaela GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
-
-</div>
-
----
 
 ## 📬 Contato
 

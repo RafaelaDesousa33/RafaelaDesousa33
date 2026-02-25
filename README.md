@@ -12,7 +12,7 @@
 
 ## 🌱 Sobre mim
 
-Olá! Eu sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, focada no **Desenvolvimento Full-Stack com Python, HTMLe CSS**.  
+Olá! Eu sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, focada no **Desenvolvimento Full-Stack com Python, HTML,CSS e Javascript**.  
 
 
 - 🚀 Sempre aprendendo e evoluindo  

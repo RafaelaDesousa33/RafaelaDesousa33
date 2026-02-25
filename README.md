@@ -6,14 +6,14 @@
 
 # 👩‍💻 Rafaela Sousa
 
-✨ Desenvolvedora Back-End em formação | Apaixonada por tecnologia, lógica e criação de soluções inteligentes.
+✨ Desenvolvedora Full-Stack em formação | Apaixonada por tecnologia, lógica e criação de soluções inteligentes.
 
 ---
 
 ## 🌱 Sobre mim
 
-Olá! Eu sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, focada no **Desenvolvimento Back-End com Python**.  
-Atualmente, estou me especializando em APIs, automações e boas práticas de programação.
+Olá! Eu sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, focada no **Desenvolvimento Full-Stack com Python, HTMLe CSS**.  
+
 
 - 🚀 Sempre aprendendo e evoluindo  
 - 🧠 Amo resolver problemas usando lógica  
@@ -27,10 +27,9 @@ Atualmente, estou me especializando em APIs, automações e boas práticas de pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔹 Estudando atualmente
-- Flask / FastAPI  
 - Bancos de dados: MySQL, PostgreSQL  
 - Git & GitHub  
-- VS Code, Postman
+- VS Code
 
 ---
 

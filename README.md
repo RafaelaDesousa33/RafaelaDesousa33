@@ -6,13 +6,13 @@
 
 # 👩‍💻 Rafaela Sousa
 
-✨ Desenvolvedora Full-Stack em formação | Apaixonada por tecnologia, lógica e criação de soluções inteligentes.
+✨ Desenvolvedora Front-end | Apaixonada por tecnologia, lógica e criação de soluções inteligentes.
 
 ---
 
 ## 🌱 Sobre mim
 
-Olá! Eu sou a **Rafaela Sousa**, estudante de **Análise e Desenvolvimento de Sistemas**, focada no **Desenvolvimento Full-Stack com Python, HTML,CSS e Javascript**.  
+Olá! Eu sou a **Rafaela Sousa**, estudante de **Ciência da Computação**, focada no **Desenvolvimento Front-end com  HTML,CSS e Javascript**.  
 
 
 - 🚀 Sempre aprendendo e evoluindo  
